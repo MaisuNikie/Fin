@@ -8,3 +8,7 @@ Java Swing utilised for program visuals / front end
   - Writing to local file
 
 This is a proof of concept and in no way practical or useful
+
+Current upload contains multiple chunks of commented out text code
+
+requires installation of JSoup to function in IDE
